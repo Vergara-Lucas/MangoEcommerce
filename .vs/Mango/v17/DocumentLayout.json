@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lvergara\\source\\repos\\Mango\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F90A36E4-9CB3-4B27-B233-E18A91965136}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|c:\\users\\lvergara\\source\\repos\\mango\\mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F90A36E4-9CB3-4B27-B233-E18A91965136}|Mango.Services.CouponAPI\\Mango.Services.CouponAPI.csproj|solutionrelative:mango.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 194,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\lvergara\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\lvergara\\source\\repos\\Mango\\Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "Mango.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T22:18:31.014Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
